@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Persistence\bin\Debug\net6.0\robogen.backend.Persistence.deps.json
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Persistence\bin\Debug\net6.0\robogen.backend.Persistence.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Persistence\bin\Debug\net6.0\robogen.backend.Persistence.pdb
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Persistence\bin\Debug\net6.0\robogen.backend.Application.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Persistence\bin\Debug\net6.0\robogen.backend.Domain.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Persistence\bin\Debug\net6.0\robogen.backend.Application.pdb
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Persistence\bin\Debug\net6.0\robogen.backend.Domain.pdb
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Persistence\obj\Debug\net6.0\robogen.backend.Persistence.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Persistence\obj\Debug\net6.0\robogen.backend.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Persistence\obj\Debug\net6.0\robogen.backend.Persistence.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Persistence\obj\Debug\net6.0\robogen.backend.Persistence.AssemblyInfo.cs
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Persistence\obj\Debug\net6.0\robogen.backend.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Persistence\obj\Debug\net6.0\robogen.backend.Persistence.csproj.CopyComplete
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Persistence\obj\Debug\net6.0\robogen.backend.Persistence.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Persistence\obj\Debug\net6.0\refint\robogen.backend.Persistence.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Persistence\obj\Debug\net6.0\robogen.backend.Persistence.pdb
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Persistence\obj\Debug\net6.0\ref\robogen.backend.Persistence.dll

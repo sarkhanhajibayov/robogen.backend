@@ -9,5 +9,3 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = robogen.backend.Domain
 build_property.ProjectDir = C:\Users\User\Desktop\robogen\robogen.backend\Core\robogen.backend.Domain\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 

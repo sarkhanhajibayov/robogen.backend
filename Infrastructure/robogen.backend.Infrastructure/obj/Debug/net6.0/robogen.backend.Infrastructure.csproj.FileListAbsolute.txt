@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Infrastructure\bin\Debug\net6.0\robogen.backend.Infrastructure.deps.json
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Infrastructure\bin\Debug\net6.0\robogen.backend.Infrastructure.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Infrastructure\bin\Debug\net6.0\robogen.backend.Infrastructure.pdb
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Infrastructure\bin\Debug\net6.0\robogen.backend.Application.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Infrastructure\bin\Debug\net6.0\robogen.backend.Domain.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Infrastructure\bin\Debug\net6.0\robogen.backend.Application.pdb
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Infrastructure\bin\Debug\net6.0\robogen.backend.Domain.pdb
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Infrastructure\obj\Debug\net6.0\robogen.backend.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Infrastructure\obj\Debug\net6.0\robogen.backend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Infrastructure\obj\Debug\net6.0\robogen.backend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Infrastructure\obj\Debug\net6.0\robogen.backend.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Infrastructure\obj\Debug\net6.0\robogen.backend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Infrastructure\obj\Debug\net6.0\robogen.backend.Infrastructure.csproj.CopyComplete
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Infrastructure\obj\Debug\net6.0\robogen.backend.Infrastructure.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Infrastructure\obj\Debug\net6.0\refint\robogen.backend.Infrastructure.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Infrastructure\obj\Debug\net6.0\robogen.backend.Infrastructure.pdb
+C:\Users\User\Desktop\robogen\robogen.backend\Infrastructure\robogen.backend.Infrastructure\obj\Debug\net6.0\ref\robogen.backend.Infrastructure.dll

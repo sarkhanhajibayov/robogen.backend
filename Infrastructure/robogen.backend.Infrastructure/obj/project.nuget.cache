@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dIeVU1Zpwn3s5fCYUFCZ18PVjBOrmvfYnLdQVm6zfJpQebHplP1Ws+PqHvWwLlhxx+74z+O/vseBsr5Uab/zUg==",
+  "dgSpecHash": "iG6pAA7X++FhRK5w4FgNsbPfFJapz6SnTDtwOEc4Y6iO6/gDrdxXGx4QemfpUAIf4pwKuuqmj7DtGN57d1gAng==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Desktop\\robogen\\robogen.backend\\Infrastructure\\robogen.backend.Infrastructure\\robogen.backend.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -17,10 +17,7 @@
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

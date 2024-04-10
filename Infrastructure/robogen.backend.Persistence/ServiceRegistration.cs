@@ -15,6 +15,7 @@ namespace E_CommerceAPI.Persistence
         public static void AddPersistenceServices(this IServiceCollection services)
         {
             services.AddDbContext<RobogenDbContext>(options => options.UseNpgsql(Configuration.ConnectionString));
+
         }
     }
 }

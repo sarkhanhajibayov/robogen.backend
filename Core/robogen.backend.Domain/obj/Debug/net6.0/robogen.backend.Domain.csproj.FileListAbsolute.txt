@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\robogen\robogen.backend\Core\robogen.backend.Domain\bin\Debug\net6.0\robogen.backend.Domain.deps.json
+C:\Users\User\Desktop\robogen\robogen.backend\Core\robogen.backend.Domain\bin\Debug\net6.0\robogen.backend.Domain.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Core\robogen.backend.Domain\bin\Debug\net6.0\robogen.backend.Domain.pdb
+C:\Users\User\Desktop\robogen\robogen.backend\Core\robogen.backend.Domain\obj\Debug\net6.0\robogen.backend.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\robogen\robogen.backend\Core\robogen.backend.Domain\obj\Debug\net6.0\robogen.backend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\robogen\robogen.backend\Core\robogen.backend.Domain\obj\Debug\net6.0\robogen.backend.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\robogen\robogen.backend\Core\robogen.backend.Domain\obj\Debug\net6.0\robogen.backend.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\robogen\robogen.backend\Core\robogen.backend.Domain\obj\Debug\net6.0\robogen.backend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\robogen\robogen.backend\Core\robogen.backend.Domain\obj\Debug\net6.0\robogen.backend.Domain.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Core\robogen.backend.Domain\obj\Debug\net6.0\refint\robogen.backend.Domain.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Core\robogen.backend.Domain\obj\Debug\net6.0\robogen.backend.Domain.pdb
+C:\Users\User\Desktop\robogen\robogen.backend\Core\robogen.backend.Domain\obj\Debug\net6.0\ref\robogen.backend.Domain.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VinJT0cizvdbeOUw07WzVw5WjtURtxzfXu/kKQfVm9esHKIUKok4olxVu/18VKukRNNC/0Aq9rKPFCsgIMojdA==",
+  "dgSpecHash": "1QKCacYc7wlqukdw2LSiRyJG8XCBXzo3YKf0KGWgwCE3QeiLisRPdfWuloTZvjmSquRjU050pyjxlAY8YQBU/Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Desktop\\robogen\\robogen.backend\\Infrastructure\\robogen.backend.Persistence\\robogen.backend.Persistence.csproj",
   "expectedPackageFiles": [
@@ -29,10 +29,7 @@
     "C:\\Users\\User\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

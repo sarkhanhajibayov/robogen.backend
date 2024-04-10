@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\robogen.backend.Presentation.props" />
+</Project>
