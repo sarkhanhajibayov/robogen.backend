@@ -26,7 +26,7 @@ namespace E_CommerceAPI.Persistence.Repositories
         public async Task<bool> AddAsync(T entity)
         {
             EntityEntry<T> entityEntry = await Table.AddAsync(entity);
-            return entityEntry.State == EntityState.Modified;   
+            return entityEntry.State == EntityState.Added;
         }
 
         public async Task<bool> AddRangeAsync(List<T> entities)
@@ -46,9 +46,9 @@ namespace E_CommerceAPI.Persistence.Repositories
             return entityEntry.State == EntityState.Deleted;
         }
 
-        public async Task<bool> RemoveAsync(string id)
+        public async Task<bool> RemoveAsync(int id)
         {
-            T model = await Table.FirstOrDefaultAsync(p => p.Id == int.Parse(id)); 
+            T model = await Table.FirstOrDefaultAsync(p => p.Id == id); 
             return Remove(model);
         }
 

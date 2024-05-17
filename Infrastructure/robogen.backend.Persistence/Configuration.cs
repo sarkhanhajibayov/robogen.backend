@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace E_CommerceAPI.Persistence
+namespace robogen.backend.Persistence
 {
     static class Configuration
     {
@@ -13,7 +13,7 @@ namespace E_CommerceAPI.Persistence
         {
             get  {
                 ConfigurationManager configurationManager = new ConfigurationManager();
-                configurationManager.SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "../../Presentation/E-CommerceAPI.API"));
+                configurationManager.SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "../../Presentation/robogen.backend.Presentation"));
                 configurationManager.AddJsonFile("appsettings.json");
                 return configurationManager.GetConnectionString("default");
             }

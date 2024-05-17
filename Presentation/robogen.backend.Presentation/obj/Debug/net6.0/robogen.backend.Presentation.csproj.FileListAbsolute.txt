@@ -47,3 +47,16 @@ C:\Users\User\Desktop\robogen\robogen.backend\Presentation\robogen.backend.Prese
 C:\Users\User\Desktop\robogen\robogen.backend\Presentation\robogen.backend.Presentation\obj\Debug\net6.0\robogen.backend.Presentation.pdb
 C:\Users\User\Desktop\robogen\robogen.backend\Presentation\robogen.backend.Presentation\obj\Debug\net6.0\robogen.backend.Presentation.genruntimeconfig.cache
 C:\Users\User\Desktop\robogen\robogen.backend\Presentation\robogen.backend.Presentation\obj\Debug\net6.0\ref\robogen.backend.Presentation.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Presentation\robogen.backend.Presentation\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Presentation\robogen.backend.Presentation\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Presentation\robogen.backend.Presentation\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Presentation\robogen.backend.Presentation\bin\Debug\net6.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Presentation\robogen.backend.Presentation\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Presentation\robogen.backend.Presentation\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Presentation\robogen.backend.Presentation\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Presentation\robogen.backend.Presentation\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Presentation\robogen.backend.Presentation\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Presentation\robogen.backend.Presentation\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Presentation\robogen.backend.Presentation\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Presentation\robogen.backend.Presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\robogen\robogen.backend\Presentation\robogen.backend.Presentation\bin\Debug\net6.0\AutoMapper.dll

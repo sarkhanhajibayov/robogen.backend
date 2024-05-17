@@ -13,7 +13,7 @@ namespace robogen.backend.Application.Repositories
         Task<bool> AddAsync(T entity);
         Task<bool> AddRangeAsync(List<T> entities);
         bool Remove(T entity);
-        Task<bool> RemoveAsync(string id);
+        Task<bool> RemoveAsync(int id);
         bool RemoveRange(List<T> entities);
 
         bool Update(T entity);
