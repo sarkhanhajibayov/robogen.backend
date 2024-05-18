@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace robogen.backend.Persistence.FilterModels
 {
-    public class ProductFilterVM 
+    public class ProductFilterVM : CommonFilterVM
     {
         public string? Name { get; set; }
         public int? SerieId { get; set; }

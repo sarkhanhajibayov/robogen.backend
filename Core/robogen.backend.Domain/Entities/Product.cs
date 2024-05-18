@@ -21,6 +21,7 @@ namespace robogen.backend.Domain.Entities
         public bool InStock { get; set; }
         public int Price { get; set; }
         public int? ReviewId { get; set; }
+        public string Key { get; set; }
         public string? ImageName { get; set; }
         public Theme Theme { get; set; }
         public Serie Serie { get; set; }

@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 using robogen.backend.Persistence.Contexts;
@@ -11,9 +12,10 @@ using robogen.backend.Persistence.Contexts;
 namespace robogen.backend.Persistence.Migrations
 {
     [DbContext(typeof(RobogenDbContext))]
-    partial class RobogenDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240518190141_mig_7")]
+    partial class mig_7
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
